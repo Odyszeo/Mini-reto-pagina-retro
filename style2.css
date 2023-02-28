@@ -1,0 +1,68 @@
+/* CSS styles */
+h1 {
+  font-family: Impact, sans-serif;
+  color: #ce5937;
+}
+
+.elementosOrdenados {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(182, 29, 29);
+  font-size: x-large;
+  font-style: italic;
+  /* font-size: larger; */
+}
+
+.Lista_ordenada {
+  font-size: x-large;
+}
+
+.Lista_desordenada {
+  color: rgb(182, 29, 29);
+  font-size: larger;
+}
+
+.all-content {
+  text-align: center;
+}
+
+button {
+  /* color: #ce5937; */
+  background-color: #8fd9a2;
+}
+.materia {
+  font-size: larger;
+}
+.profes {
+  font-size: x-large;
+}
+/* .elementosOrdenados ol,
+.Lista_desordenada ul {
+  text-align: left;
+  display: inline-block;
+} */
+
+.centrar-listas {
+  text-align: center;
+}
+
+.centrar-listas ul,
+.centrar-listas ol {
+  text-align: left;
+  display: inline-block;
+}
+
+.all-content {
+  border: 4px solid black;
+  width: 550px;
+  margin: 50px auto;
+  position: relative;
+}
+
+button:hover {
+  color: black;
+  background-color: white;
+}
+
+p {
+  color: blue;
+}
